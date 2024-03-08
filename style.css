@@ -1,0 +1,22 @@
+body { background-color: greenyellow;
+    margin-left: 24px;
+    padding-left: 16 pix;
+}
+h1 {
+    color: blue;
+   text-align: center;
+   background-color: brown;
+}
+p {
+    color: orange;
+    text-align: center;
+    margin: 24px;
+} p2{
+    color: blue;
+    text-align: center;
+    margin: 24px;
+}
+#cup{
+    padding-left: 12px;
+border-color: black;
+}
